@@ -1,0 +1,12 @@
+.bg-color {
+  background-color: #feeae9;
+}
+.buy-btn {
+  color: white;
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.amount {
+  background: -webkit-linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
