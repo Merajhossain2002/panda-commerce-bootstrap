@@ -1,6 +1,18 @@
 .bg-color {
   background-color: #feeae9;
 }
+.bg-color-2 {
+  color: white;
+  background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bg-color-3 {
+  color: white;
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.bg-color-4 {
+  color: white;
+  background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
 .buy-btn {
   color: white;
   background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
