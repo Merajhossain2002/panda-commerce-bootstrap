@@ -22,6 +22,9 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.catagories img{
+width: 100px;
+}
 .form{
   height: 300px;
 }
